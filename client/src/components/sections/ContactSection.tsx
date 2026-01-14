@@ -139,7 +139,7 @@ export default function ContactSection() {
           >
             <div className="aspect-square lg:aspect-auto lg:h-full min-h-[400px] rounded-lg overflow-hidden shadow-lg border-4 border-white">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3004.5!2d16.868!3d41.002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDHCsDAwJzA3LjMiTiAxNsKwNTInMDQuOCJF!5e0!3m2!1sit!2sit!4v1234567890"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3004.5!2d16.8721877!3d41.0037948!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1347e90060000001%3A0x7c6e0c0c0c0c0c0c!2sSP133%2C%2070010%20Adelfia%20BA!5e0!3m2!1sit!2sit!4v1234567890"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
