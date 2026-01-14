@@ -1,5 +1,5 @@
 import { Link } from 'wouter';
-import { Phone, Mail, MapPin, Clock, Facebook, Instagram } from 'lucide-react';
+import { Phone, Mail, MapPin, Clock, Instagram } from 'lucide-react';
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
@@ -26,16 +26,7 @@ export default function Footer() {
             </p>
             <div className="flex gap-4">
               <a
-                href="https://www.facebook.com/cantinesaverioscattaglia/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-gold hover:text-foreground transition-all duration-300"
-                aria-label="Facebook"
-              >
-                <Facebook className="w-5 h-5" />
-              </a>
-              <a
-                href="https://www.instagram.com/scattagliawines/"
+                href="https://www.instagram.com/cantine_scattaglia/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-gold hover:text-foreground transition-all duration-300"
